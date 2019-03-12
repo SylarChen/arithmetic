@@ -32,7 +32,10 @@ public class Test2 {
     public static String foo(String testCase) {
         Map<Pair<Integer, Integer>, Boolean> resultMap = new HashMap();
         /**
-         *
+         * i 与 j 的间隔从小到大，先保证小的间距有数据, 大的间距依赖小间距的数据
+         * S[0,0] S[1,1] S[2,2] S[3,3] ...
+         * S[0,1] S[1,2] S[2,3] S[3,4] ...
+         * S[0,2] S[1,3] S[2,4] S[3,5] ...
          */
         int gap = 0;
         while (gap < testCase.length()) {
