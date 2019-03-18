@@ -1,4 +1,3 @@
-package com.ctrip.flight.mobile.nb.mega.web;
 
 /**
  * @author chenheng
