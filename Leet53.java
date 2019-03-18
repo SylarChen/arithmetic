@@ -1,4 +1,4 @@
-package com.ctrip.flight.mobile.nb.mega.translator.vo2do.bus.segment;
+
 
 import org.apache.commons.lang3.tuple.Pair;
 
