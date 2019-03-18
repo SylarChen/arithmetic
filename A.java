@@ -1,4 +1,3 @@
-package com.ctrip.flight.mobile.home.fuzzysearch.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
