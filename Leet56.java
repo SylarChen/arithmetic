@@ -4,6 +4,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
+ * 思路：先排序，再合并
  * 解C和解D证明了对数组的排序快于对list的排序
  *
  * @author chenheng
