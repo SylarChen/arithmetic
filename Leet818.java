@@ -4,6 +4,9 @@ public class Solution {
         System.out.println(racecar(20));
     }
 
+    /**
+     * https://leetcode.com/problems/race-car/discuss/174002/Java-DP-beat-98.93-with-detailed-explanation(Video)
+     */
     public static int racecar(int target) {
         return dp(target);
     }
