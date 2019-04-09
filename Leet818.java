@@ -1,5 +1,3 @@
-package com.ctrip.flight.mobile.home.fuzzysearch.web;
-
 public class Solution {
 
     public static void main(String[] args) {
